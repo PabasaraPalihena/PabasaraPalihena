@@ -1,16 +1,16 @@
 # Hi there 👋 I'm Pabasara Palihena
 
----
+
 
 ## 👨‍💻 About Me
 
-### 🎓 Currently pursuing a Master’s degree in Web Engineering at TU Chemnitz,Germany
+**🎓 Currently pursuing a Master’s degree in Web Engineering at TU Chemnitz,Germany**
 
-### 🔬 Researching Semantic Web technologies and Intelligent Systems
+**🔬 Researching Semantic Web technologies and Intelligent Systems**
 
-### 🔍 Working on transforming sensor and industrial data into semantic knowledge graphs
+**🔍 Working on transforming sensor and industrial data into semantic knowledge graphs**
 
----
+
 
 ## 🛠️ Technologies & Tools
 
@@ -38,25 +38,25 @@ GraphDB, Neo4j, SPARQL, SHACL
 **Tools & Platforms:**
 Git, Jira, Confluence, Postman, Protégé, Azure, Heroku, Overleaf
 
----
+
 
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
 
----
+
 
 ## 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
 
----
+
 
 ## 👀 Profile Views
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
 
----
+
 
 ## ⚡ Fun Facts
 
