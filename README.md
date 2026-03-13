@@ -2,7 +2,7 @@
 
 
 
-## 👨‍💻 About Me | ![Visitor Count](https://komarev.com/ghpvc/?username=PabasaraPalihena\&color=blue)
+## 👩‍💻 About Me | ![Visitor Count](https://komarev.com/ghpvc/?username=PabasaraPalihena\&color=blue)
 
 **🎓 Currently pursuing a Master’s degree in Web Engineering at TU Chemnitz, Germany**
 
