@@ -42,8 +42,7 @@ Git • Jira • Confluence • Postman • Protégé • Azure • Heroku • O
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PabasaraPalihena&show_icons=true&include_all_commits=true&theme=radical)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PabasaraPalihena&show_icons=true&theme=radical)
 
 
 ## 📈 Most Used Languages
